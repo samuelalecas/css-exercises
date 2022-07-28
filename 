@@ -1,0 +1,232 @@
+[33mcommit d18e0ee914c649df51505c3ed388d5eca4b43c0d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Samuel Alegre <samuelalecas@gmail.com>
+Date:   Thu Jul 28 17:35:52 2022 +0200
+
+    Resolve 02-class-id-selectors from foundation
+
+[33mcommit b223bb7cfb068f30ee8b08c3eef8533455b430b3[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Samuel Alegre <samuelalecas@gmail.com>
+Date:   Thu Jul 28 17:12:32 2022 +0200
+
+    Resolve 01-css-methods from foundation
+
+[33mcommit 35adbf668607e572d94fa4ee17e3164bbfe69178[m
+Merge: 2085586 1a409ec
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Mon Jul 25 17:41:01 2022 -0400
+
+    Merge pull request #202 from Amandasilvbr/alt-text
+    
+    Flex and Foundations: add alt text for accessibility (#201)
+
+[33mcommit 1a409ecd1e7388473c4583d3354d1a453ca7c83e[m
+Author: Amanda Brunelli <am_sbr@outlook.com>
+Date:   Fri Jul 22 12:15:28 2022 -0300
+
+    Add alt text
+
+[33mcommit 2085586d9a8125d896c59e0d1cbc7d8a88bedac4[m
+Merge: 5279f7f 2734b65
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Tue Jul 12 19:48:09 2022 -0400
+
+    Merge pull request #187 from mengxihe/patch-2
+    
+    grid/03-grid-layout-3/solution/solution.css : the grid-template-row command seems unnecessary
+
+[33mcommit 5279f7fb9facd1b87e7a9dbddf71ffe976d9f7d3[m
+Merge: d4758f5 3b4ebbf
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Thu Jul 7 13:47:01 2022 -0400
+
+    Merge pull request #191 from maznevskia/flex_excercise_3_extra_space
+    
+    css-exercises/flex/03-flex-header-2/style.css: Removed extra space from style.css
+
+[33mcommit d4758f5b2fa839d050f75d892e00f251a88345bf[m
+Merge: 3410acf ca48e17
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Thu Jul 7 10:52:54 2022 -0400
+
+    Merge pull request #194 from msespos/replace-grid-03-desired-outcome
+    
+    03-grid-layout: Replace desired-outcome.png
+
+[33mcommit ca48e17d05c55b78eb60b490dd3d09e572d88fc2[m
+Author: Mike Esposito <mikeesposito6852@gmail.com>
+Date:   Thu Jul 7 07:36:29 2022 -0700
+
+    Replace grid 03 desired-outcome.png
+
+[33mcommit 3b4ebbfde54ccc5aecf4c4f46b832c6fa30bcc33[m
+Author: maznevskia <andrej.maznevski13@gmail.com>
+Date:   Thu Jun 30 11:42:30 2022 +0200
+
+    Removed extra space from style.css
+
+[33mcommit 2734b6558d6e061b09457d8780abcbb0d0e8f11c[m
+Author: Mengxi He <51547216+mengxihe@users.noreply.github.com>
+Date:   Sun Jun 26 12:57:55 2022 +0200
+
+    the grid-template-row command seems unnecessary
+
+[33mcommit 3410acf607222c2aa3aa09fbc3169f61d9848bf0[m
+Merge: e34cb96 055475a
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Tue Jun 14 14:12:27 2022 -0400
+
+    Merge pull request #173 from acb123web/acb-1
+    
+    This Commit fixes #170 opened issue
+
+[33mcommit e34cb96d5e2103a5cc9d83acc9b5173acb7bc43a[m
+Merge: ddbff17 965fcbd
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Mon Jun 13 21:18:18 2022 -0400
+
+    Merge pull request #175 from dm-murphy/fix/03-grid-hint-wording
+    
+    03-grid-layout-3: Change hint wording for adding CSS declaration blocks
+
+[33mcommit 965fcbd6a147d4e152dd15e1ebe12a25960fe305[m
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Mon Jun 13 21:17:35 2022 -0400
+
+    Update grid/03-grid-layout-3/README.md
+    
+    Co-authored-by: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+
+[33mcommit ddbff171779a62170bc8d0323dd032eaeee767af[m
+Merge: 2ca2000 dd6b001
+Author: Daniel Murphy <60681378+dm-murphy@users.noreply.github.com>
+Date:   Thu Jun 9 22:19:59 2022 -0400
+
+    Merge pull request #183 from NateTewolde/patch-1
+    
+    03-grid-layout-3: Remove a duplicate line of code from solution.css
+
+[33mcommit dd6b001a1e62c07aed63ff5dcb6241ebfacee220[m
+Author: NateTewolde <104654391+NateTewolde@users.noreply.github.com>
+Date:   Sun Jun 5 13:09:35 2022 -0700
+
+    Remove a duplicate line of code from solution.css
+    
+    There is a text-align:center in the .container block under the /*SOLUTION*/ comment when there is already a text-align:center within the original .container block on line 7.
+
+[33mcommit 8719d34fdae5e40266b496f2e90578c3aa403875[m
+Author: Daniel Murphy <danielmichaelmurphy@gmail.com>
+Date:   Thu May 12 12:27:30 2022 -0400
+
+    Change hint wording for adding CSS declaration blocks
+
+[33mcommit 2ca200017740264333b969ce1527af4b6c50e848[m
+Merge: d27b59b 79173b3
+Author: Cody Loyd <codyloyd@gmail.com>
+Date:   Thu May 12 10:11:45 2022 -0500
+
+    Merge pull request #174 from TheOdinProject/codyloyd-patch-3
+    
+    Update README.md
+
+[33mcommit 79173b3b449371e7d0655212d76d56fb9cbbc09a[m
+Author: Cody Loyd <codyloyd@gmail.com>
+Date:   Thu May 12 10:10:44 2022 -0500
+
+    Update README.md
+
+[33mcommit 055475a3ae2405de53e8b63169bfdf093ab10b50[m
+Author: Bharath C Hegde <ac.bharath123@gmail.com>
+Date:   Sun Apr 17 20:09:10 2022 +0530
+
+    This Commit fixes #170 opened issue
+
+[33mcommit d27b59b78b073cfea8691637ce2befd3334b5a73[m
+Merge: 38dc43b 0c62902
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 10:01:36 2022 -0400
+
+    Merge pull request #163 from DragunovVelimirovic/patch-2
+    
+    03-grid-layout-3 Update solutions.css
+
+[33mcommit 38dc43bd04c8865fadd3ad14c3e78daff44bac9a[m
+Merge: c7cba9f 83ecb57
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 08:31:54 2022 -0400
+
+    Merge pull request #166 from AngryGolfer/main
+    
+    Easy Fix - css-exercises/foundation/06 cascade fix/solution/style.css -Typo and line wrap
+
+[33mcommit c7cba9fbd9a13c5b67049bb26036cd18176e0a88[m
+Merge: 6ee2bef 9dbce31
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Apr 16 08:24:08 2022 -0400
+
+    Merge pull request #162 from jamhog/rename_folders
+    
+    margin-and-padding: Rename folders to match other exercises
+
+[33mcommit 83ecb5730ad7d8ddd00b4384ed843de7a5685ca1[m
+Author: AngryGolfer <102259851+AngryGolfer@users.noreply.github.com>
+Date:   Fri Apr 1 12:03:29 2022 +0100
+
+    Typo and line wrap
+    
+    Changed 12px to 14px to match the .css file px size and wrapped lengthy description
+
+[33mcommit 0c62902d0c35dbf6c32985538355535e121402a3[m
+Author: DragunovVelimirovic <59807104+DragunovVelimirovic@users.noreply.github.com>
+Date:   Tue Mar 29 10:54:04 2022 -0300
+
+    Pruning code by combining selectors
+    
+    Both selectors were doing the same thing and were right next to each other, figured it may be cleaner to consolidate the code by combining the selectors.
+
+[33mcommit 9dbce31f175cc064315980d09ad7a4d5db384fb0[m
+Author: James Hogan <jamiehogan93@gmail.com>
+Date:   Mon Mar 28 14:00:58 2022 +1100
+
+    Rename folders to match other lessons
+
+[33mcommit 6ee2bef7b12232de7e908552d79e1ebb938e5c59[m
+Merge: dc722ec 2cb657e
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sun Mar 27 10:07:59 2022 -0400
+
+    Merge pull request #160 from Micosaur/mico-flex-patch-1
+    
+    flex/06+07: Fix broken links
+
+[33mcommit 2cb657e22bbd5185a5f868e0776d9a47f914b297[m
+Merge: e4c395c dc722ec
+Author: Micosaur <70674855+Micosaur@users.noreply.github.com>
+Date:   Sun Mar 27 01:19:18 2022 -0700
+
+    Merge branch 'TheOdinProject:main' into mico-flex-patch-1
+
+[33mcommit dc722ec91cb6bc392b1390a8890c8a1ecb9eea8e[m
+Merge: 303d653 fa7b2e4
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Mar 26 07:53:59 2022 -0400
+
+    Merge pull request #161 from Mmackz/patch-1
+    
+    02-grid-layout-2: Update README.md
+
+[33mcommit 303d65391c792dde58b23743c9f22f8d16e05c3c[m
+Merge: 5f72a6f aa67a14
+Author: Eric Olkowski <70952936+thatblindgeye@users.noreply.github.com>
+Date:   Sat Mar 26 07:48:04 2022 -0400
+
+    Merge pull request #159 from Micosaur/mico-patch-1
+    
+    05-descendant-combinator: Add full solution
+
+[33mcommit fa7b2e4ef611ff8dca7a0d561052032c5355ce92[m
+Author: Mmackz <62824345+Mmackz@users.noreply.github.com>
+Date:   Fri Mar 25 13:31:19 2022 -0700
+
+    Change intro in readme.md
+    
+    Remove the wording "It is easy" or "This is easy" from the descriptio
