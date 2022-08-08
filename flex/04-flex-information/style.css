@@ -8,14 +8,29 @@ img {
 }
 
 .container{
+  background-color: rgb(240, 240, 240);
   display: flex;
+  flex-direction: column;
   justify-content: center;
+  height: 500px;
+  align-items: center;
   padding: 20px;
   margin-top: 20px;
   flex-wrap: wrap;
   gap: 20px;
+  padding-top: 50px;
+}
+.a, .b{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* flex-direction: column; */
 }
 
+.b{
+  width: 500px;
+  text-align: center;
+}
 .plant{
   width: 220px;
   display: flex;
